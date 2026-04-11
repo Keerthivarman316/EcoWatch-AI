@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "E:\EcoWatch-AI\run_preprocess.py", line 5, in <module>
+    exec(open(r"e:\EcoWatch-AI\preprocess.py").read())
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\encodings\cp1252.py", line 23, in decode
+    return codecs.charmap_decode(input,self.errors,decoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x8f in position 6419: character maps to <undefined>
