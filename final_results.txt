@@ -1,0 +1,9 @@
+﻿
+=======================================================
+  FINAL MASTER ARCHITECTURE RESULTS
+=======================================================
+  Change Detection (Siamese ResNet50) -> F1: 0.7093 | IoU: 0.5496
+  Veg Segmentation (U-Net mit_b2)     -> F1: 0.9350 | IoU: 0.8780
+
+  Composite Score: 0.4678
+=======================================================
