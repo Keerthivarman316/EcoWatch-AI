@@ -29,9 +29,9 @@ The system achieved an immense out-of-sample generation capability resulting in 
 ### Model Inference Proofs
 *Visualizing raw inference predictions directly off the Siamese ResNet-50 Decoder.*
 
-![Violation Map](violation_map.png)
+![Violation Map](results/violation_map.png)
 
-![GradCAM Heatmap](gradcam_heatmap.png)
+![GradCAM Heatmap](results/gradcam_heatmap.png)
 
 ---
 
