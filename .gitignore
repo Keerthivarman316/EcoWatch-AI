@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data
+Data/Processed/
+Data/Raw/
+
+# Checkpoints
+checkpoints/
+*.pth
+*.npy
+*.pt
+
+# System
+.vscode/
+.idea/
+*.log
+final_results.txt
+final_eval_scores.txt
+split_rules.txt
